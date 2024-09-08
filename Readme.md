@@ -11,3 +11,6 @@ or
 <!-- to initialize the directory -->
 cargo init
 ```
+
+学習教材  
+https://www.udemy.com/course/rust-basic-course/?couponCode=KEEPLEARNING
